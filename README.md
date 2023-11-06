@@ -5,7 +5,6 @@ Simulation to smart glasses using Raspberry Pi
 -------------------------------------------------------
 
 Each file is a part of the project.
-
 **1. models:** It contains machine learning models used for each feature that have been trained to fit our project.
 
 **2. I-Vision:** The mobile application used in the project that acts as a freshness controller (using Flutter).
